@@ -1,0 +1,7 @@
+No Curso estudado aprendemos como criar um primeiro repositório.
+
+Comandos úteis: git clone - para clonar repositórios do github para a máquina.
+		git status - para saber o status da pasta/projeto. Se houve ou não alteração e quais seriam.
+		git add . - adiciona todos os arquivos novos para a versão.
+		git commit -m "" - Enviar para o commit com um comentário coerente.
+		git push origin main - "empurra" para o github no diretório Main do projeto.
